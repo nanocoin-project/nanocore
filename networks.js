@@ -24,7 +24,7 @@ exports.livenet = {
     version: 1,
     prev_hash: buffertools.fill(new Buffer(32), 0),
     timestamp: 1426352618,
-    bits: 504365055
+    bits: 504365040
   },
   dnsSeeds: [
     'seed.nanocoin.io'
