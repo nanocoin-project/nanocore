@@ -1,0 +1,29 @@
+{
+  "name": "nanocore",
+  "main": "browser/bundle.js",
+  "version": "0.1.36",
+  "homepage": "https://github.com/nanocoin-project/nanocore",
+  "authors": [
+    "Rick Yanez (<rick@nanocoin.io>)"
+  ],
+  "description": "Nanocoin Core Library in Javascript",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "nanocoin",
+    "nanocore",
+    "xnc",
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
